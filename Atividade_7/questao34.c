@@ -4,7 +4,7 @@
 
 int main(void){
 
-    float n=0, t[11];
+    float n=0, t[10];
     int i=0;
 
     printf("Digite um valor qualquer: ");
